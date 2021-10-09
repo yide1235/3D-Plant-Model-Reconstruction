@@ -1,5 +1,5 @@
 # 3D-Plant-Model-Reconstruction
-3D Plant Model Reconstruction Using Deep Learning(Zhuocheng Guo, Mingwei Sui, Yipeng Liu, Yide ma)
+3D Plant Model Reconstruction Using Deep Learning(Zhuocheng Guo, Mingwei Sui, Yipeng Liu, Yide Ma)
 
 Objectives
 • Data augmentation of 3D plant (control randomness of plant and reproduce a large dataset)
