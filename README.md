@@ -1,4 +1,4 @@
-# 3D-Plant-Model-Reconstruction
+# 3D-Plant-Model-Reconstruction-Using-Deep-Learning
 3D Plant Model Reconstruction Using Deep Learning(Zhuocheng Guo, Mingwei Sui, Yipeng Liu, Yide Ma)
 
 Objectives
