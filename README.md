@@ -1,5 +1,5 @@
-# 3D-Plant-Model-Reconstruction-Using-Deep-Learning
-3D Plant Model Reconstruction Using Deep Learning(Zhuocheng Guo, Mingwei Sui, Yipeng Liu, Yide Ma)
+# 3D-Plant-Dataset-for-Point-Cloud-Reconstruction
+(Zhuocheng Guo, Mingwei Sui, Yipeng Liu, Yide Ma)
 
 
 
