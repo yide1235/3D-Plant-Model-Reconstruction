@@ -20,6 +20,5 @@ The following result is the result we using PFNet and one type of plants, runnin
 Second stage (09/11/2021 - 06/12/2021)
 
 Task:
-1. Generate more plants datasets using vlab.
-2. Re-implement PCN
-3. Using the around 12 group plant to achieve reconstruction using single-view reconstruction 
+1. Re-implement PCN
+2. Single-view reconstruction 
