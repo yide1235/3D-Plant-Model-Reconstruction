@@ -1,4 +1,4 @@
-# 3d-Plant-Dataset-for-Point-Cloud-Reconstruction
+# 3d-Plant-Point-Cloud-Reconstruction
 (Zhuocheng Guo, Mingwei Sui, Yipeng Liu, Yide Ma)
 
 
