@@ -20,5 +20,6 @@ The following result is the result we using PFNet and one type of plants, runnin
 Second stage (09/11/2021 - 06/12/2021)
 
 Task:
-1. Re-implement PCN
-2. Single-view reconstruction 
+Re-implement PCN, PF-net, SnowFlake, Gr-net.
+
+(In the future)Single-view reconstruction 
