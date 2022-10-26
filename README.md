@@ -1,4 +1,4 @@
-# 3D Point Cloud Reconstruction Using Deep Learning
+# 3D Plant Reconstruction
 
 #### Yipeng Liu, Yide Ma, Zhuocheng Guo, Mingwei Sui
 
