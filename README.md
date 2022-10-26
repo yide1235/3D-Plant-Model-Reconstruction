@@ -1,4 +1,4 @@
-# 3D Plant Reconstruction
+# 3D Plant Model Reconstruction
 
 #### Yipeng Liu, Yide Ma, Zhuocheng Guo, Mingwei Sui
 
